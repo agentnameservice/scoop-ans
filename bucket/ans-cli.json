@@ -1,22 +1,22 @@
 {
-    "version": "0.1.16",
+    "version": "0.1.17",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.16/ans-cli_0.1.16_windows_amd64.zip",
+            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.1.17/ans-cli_0.1.17_windows_amd64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "86b91d88afca7491af9b5d18ed95cef0e3e14cd3d71b2026481ffb68e65fb7df"
+            "hash": "67963fa24961291b0944ed528697409bd9e4364d198aa22bf87d4a66ef6bd3ef"
         },
         "arm64": {
-            "url": "https://github.com/godaddy/ans-sdk-go/releases/download/v0.1.16/ans-cli_0.1.16_windows_arm64.zip",
+            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.1.17/ans-cli_0.1.17_windows_arm64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "5739c0e54fef3567d1500aeec421b2859ee52d2298d76af75907857274011a63"
+            "hash": "6a1a6d91159126f8ad89f991a17bf321a88bfa38a448909495d0921dc5a71131"
         }
     },
-    "homepage": "https://github.com/godaddy/ans-sdk-go",
+    "homepage": "https://github.com/agentnameservice/ans-sdk-go",
     "license": "MIT",
     "description": "Command-line tool for the Agent Name Service (ANS) Registry"
 }
