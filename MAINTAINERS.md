@@ -1,7 +1,6 @@
-# Repository access roster
+# Maintainers
 
-Roster source: agentnameservice/ans-sdk-go/MAINTAINERS.md
-
-This distribution repository uses the Go SDK's Maintainers and Reviewers.
-See the [current roster](https://github.com/agentnameservice/ans-sdk-go/blob/main/MAINTAINERS.md).
-Update that roster through a reviewed PR; membership is not duplicated here.
+The [sdk-go-maintainers team](https://github.com/orgs/agentnameservice/teams/sdk-go-maintainers)
+maintains this repository. Current membership and GitHub access are recorded in
+[the organization team configuration](https://github.com/agentnameservice/.github/blob/main/peribolos.yml).
+Propose membership changes there through a reviewed pull request.
