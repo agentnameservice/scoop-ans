@@ -1,19 +1,19 @@
 {
-    "version": "0.1.20",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.1.20/ans-cli_0.1.20_windows_amd64.zip",
+            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.2.0/ans-cli_0.2.0_windows_amd64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "5695e12bea1946a03d6833810038cf9675e600ec88d728bc49474a3da124e7bb"
+            "hash": "0e03d9d0da681bb439d154e9f41cbd4612bc378c4bc55ba24e603ac99097b904"
         },
         "arm64": {
-            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.1.20/ans-cli_0.1.20_windows_arm64.zip",
+            "url": "https://github.com/agentnameservice/ans-sdk-go/releases/download/v0.2.0/ans-cli_0.2.0_windows_arm64.zip",
             "bin": [
                 "ans-cli.exe"
             ],
-            "hash": "acc3bc151c91e849d3380b69975869d72f21e812032d5f797d5c0b8ee9c95c92"
+            "hash": "7c2e6241f89b2f79e5f165081fe45b03f8201304d8eae7179a92bf85a15d8edc"
         }
     },
     "homepage": "https://github.com/agentnameservice/ans-sdk-go",
